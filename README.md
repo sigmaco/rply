@@ -29,7 +29,7 @@ Whatever documentation and examples were found, were taken into consideration to
 
 ## Download
 
-Version 1.1.4 of RPly is available for download in source code from [this link](rply-1.1.4.tar.gz). Examples and documentation are packed inside the tarball. Have fun!
+Version 1.1.4 of RPly is available for download in source code. Examples and documentation are packed inside the tarball. Have fun!
 
 Copyright © 2003-2015 Diego Nehab. All rights reserved.  
 Author: [Diego Nehab](http://www.impa.br/~diego)
